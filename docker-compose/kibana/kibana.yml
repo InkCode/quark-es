@@ -1,0 +1,6 @@
+# i18n.locale: "zh-CN"
+# server.port: 5601
+server.host: "0.0.0.0" #docker部署必须修改，否则访问失败
+elasticsearch.hosts: "http://10.27.0.143:9200" #es地址
+# xpack.reporting.capture.browser.chromium.disableSandbox: false
+# xpack.security.enabled: false 
